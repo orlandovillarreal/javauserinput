@@ -5,4 +5,5 @@ Supports int, float, String, byte, short, long, double and char data types.
 
 # Example Usage
 System.out.println("Please enter your name");
+
 String name = userInput.readString();
